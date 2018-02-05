@@ -1,4 +1,4 @@
-...<?php
+<?php
 
 $alf = range('A','Z');
 $k = 3;
