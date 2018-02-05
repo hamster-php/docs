@@ -1,6 +1,6 @@
 <pre>
 <a href="https://ru.wikipedia.org/wiki/%D0%90%D1%84%D1%84%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D1%88%D0%B8%D1%84%D1%80"><h1>Афинный шифр</h1></a>
-<?php
+```<?php
 $alf = range('A','Z'); 
 $a = 3;
 $b = 4;
@@ -32,4 +32,4 @@ function dekod_Affine($txt1){
 	}
 	return $result1;
 }
-echo dekod_Affine($txt1);
+echo dekod_Affine($txt1);```
