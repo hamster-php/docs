@@ -23,4 +23,4 @@ function antiCaesar($arr1){
    }
   echo "РАСШИФРОВАННЫЙ ТЕКСТ: $x <br/>"; 
 }
- echo antiCaesar($arr1);...
+ echo antiCaesar($arr1);
